@@ -43,11 +43,11 @@ Part C: Downloading and compiling the MPC-HC source
 1. Use Git to clone MPC-HC's repository to "C:\mpc-hc" (or anywhere else you like)
     Download Git from http://msysgit.googlecode.com/files/Git-1.8.1.2-preview20130201.exe
     Run:
-      git clone --recursive https://github.com/mpc-hc/mpc-hc.git
+      git clone --config core.autocrlf=false --recursive https://github.com/mpc-hc/mpc-hc.git
 
       or
 
-      git clone  https://github.com/mpc-hc/mpc-hc.git
+      git clone --config core.autocrlf=false https://github.com/mpc-hc/mpc-hc.git
       git submodule init
       git submodule update
 2. Open the solution file "C:\mpc-hc\mpc-hc.sln"
