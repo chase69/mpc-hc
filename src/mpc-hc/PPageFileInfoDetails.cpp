@@ -20,7 +20,7 @@
  */
 
 #include "stdafx.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "PPageFileInfoDetails.h"
 #include <atlbase.h>
 #include "DSUtil.h"

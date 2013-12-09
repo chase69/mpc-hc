@@ -28,7 +28,7 @@
 #include <bdamedia.h>
 #include <bdaiface.h>
 
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "PPageCapture.h"
 #include "DSUtil.h"
 

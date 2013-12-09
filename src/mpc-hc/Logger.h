@@ -22,7 +22,7 @@
 
 #include <mutex>
 #include <sys/timeb.h>
-#include "mplayerc.h"
+#include "mpc-hc.h"
 
 enum class LogTargets {
     BDA

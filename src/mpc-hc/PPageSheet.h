@@ -21,7 +21,7 @@
 
 #pragma once
 
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "PPagePlayer.h"
 #include "PPageFormats.h"
 #include "PPageAccelTbl.h"

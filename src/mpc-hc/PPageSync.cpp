@@ -19,7 +19,7 @@
  */
 
 #include "stdafx.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "MainFrm.h"
 #include "PPageSync.h"
 

@@ -24,7 +24,7 @@
 #ifndef MPCHC_LITE
 #include "FGFilterLAV.h"
 #endif
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "FileVersionInfo.h"
 #include "VersionInfo.h"
 #include "SysVersion.h"

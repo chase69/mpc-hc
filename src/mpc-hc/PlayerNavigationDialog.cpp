@@ -21,7 +21,7 @@
 #include "stdafx.h"
 #include "PlayerNavigationDialog.h"
 #include "DSUtil.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "MainFrm.h"
 
 // CPlayerNavigationDialog dialog

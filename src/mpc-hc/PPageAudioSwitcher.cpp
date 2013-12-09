@@ -21,7 +21,7 @@
 
 #include "stdafx.h"
 #include <math.h>
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "MainFrm.h"
 #include "PPageAudioSwitcher.h"
 

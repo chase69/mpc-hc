@@ -26,7 +26,7 @@
 #include <math.h>
 #include "QuicktimeGraph.h"
 #include "IQTVideoSurface.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "MainFrm.h"
 #include "DSUtil.h"
 

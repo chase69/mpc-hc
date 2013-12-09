@@ -19,7 +19,7 @@
  */
 
 #include "stdafx.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "SaveImageDialog.h"
 #include "SysVersion.h"
 

@@ -21,7 +21,7 @@
 #include "stdafx.h"
 #include "PlayerNavigationBar.h"
 #include "DSUtil.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 
 // CPlayerNavigationBar
 

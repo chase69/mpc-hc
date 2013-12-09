@@ -20,7 +20,7 @@
  */
 
 #include "stdafx.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "ChildView.h"
 #include "MainFrm.h"
 

@@ -32,7 +32,7 @@
 #include "GolombBuffer.h"
 #include "../filters/switcher/AudioSwitcher/AudioSwitcher.h"
 #include "moreuuids.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "FGManagerBDA.h"
 #include "DVBChannel.h"
 #include "Mpeg2SectionData.h"

@@ -20,7 +20,7 @@
  */
 
 #include "stdafx.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "PPageOutput.h"
 #include "SysVersion.h"
 #include "moreuuids.h"

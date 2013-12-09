@@ -21,7 +21,7 @@
 
 #include "stdafx.h"
 #include "MainFrm.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "PPageFullscreen.h"
 
 #include "Monitors.h"

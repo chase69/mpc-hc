@@ -22,7 +22,7 @@
 #include "stdafx.h"
 #include <Windows.h>
 #include <commdlg.h>
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "MainFrm.h"
 #include "TextPassThruFilter.h"
 #include "moreuuids.h"

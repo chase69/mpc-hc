@@ -25,7 +25,7 @@
 #include "UpdateChecker.h"
 #include "UpdateCheckerDlg.h"
 #include "SettingsDefines.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "SysVersion.h"
 
 #include <afxinet.h>

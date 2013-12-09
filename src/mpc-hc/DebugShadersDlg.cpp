@@ -20,7 +20,7 @@
 
 #include "stdafx.h"
 #include "DebugShadersDlg.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "PathUtils.h"
 
 CModelessDialog::CModelessDialog(UINT nIDTemplate)

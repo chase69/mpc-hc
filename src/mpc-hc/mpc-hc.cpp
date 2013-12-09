@@ -20,7 +20,7 @@
  */
 
 #include "stdafx.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "AboutDlg.h"
 #include <Tlhelp32.h>
 #include "MainFrm.h"

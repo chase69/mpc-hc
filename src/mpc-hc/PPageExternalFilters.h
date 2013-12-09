@@ -23,7 +23,7 @@
 
 #include "PPageBase.h"
 #include "FloatEdit.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "DropTarget.h"
 
 

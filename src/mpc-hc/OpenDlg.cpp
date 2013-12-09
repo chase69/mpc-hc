@@ -21,7 +21,7 @@
 
 #include "stdafx.h"
 #include <atlpath.h>
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "PathUtils.h"
 #include "OpenDlg.h"
 #include "OpenFileDlg.h"

@@ -356,7 +356,7 @@
     <ClCompile Include="MouseTouch.cpp" />
     <ClCompile Include="MPCPngImage.cpp" />
     <ClCompile Include="Mpeg2SectionData.cpp" />
-    <ClCompile Include="mplayerc.cpp" />
+    <ClCompile Include="mpc-hc.cpp" />
     <ClCompile Include="MultiMonitor.cpp" />
     <ClCompile Include="OpenDirHelper.cpp" />
     <ClCompile Include="OpenDlg.cpp" />
@@ -489,7 +489,7 @@
     <ClInclude Include="MpcApi.h" />
     <ClInclude Include="MPCPngImage.h" />
     <ClInclude Include="Mpeg2SectionData.h" />
-    <ClInclude Include="mplayerc.h" />
+    <ClInclude Include="mpc-hc.h" />
     <ClInclude Include="MultiMonitor.h" />
     <ClInclude Include="OpenDirHelper.h" />
     <ClInclude Include="OpenDlg.h" />

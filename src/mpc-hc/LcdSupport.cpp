@@ -29,7 +29,7 @@
 #include "LcdSupport.h"
 #include "LCDUI/LCDUI.h"
 
-#include "mplayerc.h"
+#include "mpc-hc.h"
 
 #define LCD_APP_NAME  "MPC-HC"
 #define LCD_UPD_TIMER 40

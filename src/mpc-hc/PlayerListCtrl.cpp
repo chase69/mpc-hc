@@ -20,7 +20,7 @@
  */
 
 #include "stdafx.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "PlayerBar.h"
 #include "PlayerListCtrl.h"
 #include "WinHotkeyCtrl.h"

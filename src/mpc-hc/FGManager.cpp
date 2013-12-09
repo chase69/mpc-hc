@@ -21,7 +21,7 @@
 
 #include "stdafx.h"
 #include <mpconfig.h>
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "FGManager.h"
 #include "DSUtil.h"
 #include "FileVersionInfo.h"

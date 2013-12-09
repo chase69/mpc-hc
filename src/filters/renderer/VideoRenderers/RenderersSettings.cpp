@@ -22,7 +22,7 @@
 #include "stdafx.h"
 #include "RenderersSettings.h"
 #include "../../../mpc-hc/AppSettings.h"
-#include "../../../mpc-hc/mplayerc.h"
+#include "../../../mpc-hc/mpc-hc.h"
 #include "../../../DSUtil/SysVersion.h"
 #include "version.h"
 #include <d3dx9.h>

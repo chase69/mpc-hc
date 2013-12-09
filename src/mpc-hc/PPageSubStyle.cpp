@@ -21,7 +21,7 @@
 
 #include "stdafx.h"
 #include <algorithm>
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "MainFrm.h"
 #include "PPageSubStyle.h"
 

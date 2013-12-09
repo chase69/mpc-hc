@@ -20,7 +20,7 @@
 
 #include "stdafx.h"
 #include "VMROSD.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "DSMPropertyBag.h"
 #include "MainFrm.h"
 

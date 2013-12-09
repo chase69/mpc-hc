@@ -24,7 +24,7 @@
 #include <InitGuid.h>
 #include <dmoreg.h>
 #include "PathUtils.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "PPageExternalFilters.h"
 #include "ComPropertySheet.h"
 #include "RegFilterChooserDlg.h"

@@ -20,7 +20,7 @@
  */
 
 #include "stdafx.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "FGFilterLAV.h"
 #include "PPageInternalFilters.h"
 #include "../filters/Filters.h"

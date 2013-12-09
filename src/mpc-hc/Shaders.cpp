@@ -21,7 +21,7 @@
 #include "stdafx.h"
 #include "Shaders.h"
 #include "MainFrm.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "PathUtils.h"
 
 #define SHADER_MAX_FILE_SIZE (4 * 1024 * 1024)

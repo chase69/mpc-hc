@@ -21,7 +21,7 @@
 
 #include "stdafx.h"
 #include <strsafe.h>
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "MainFrm.h"
 #include "FavoriteOrganizeDlg.h"
 

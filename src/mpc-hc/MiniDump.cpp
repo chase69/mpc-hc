@@ -21,7 +21,7 @@
 #include "stdafx.h"
 #include <DbgHelp.h>
 #include <atlpath.h>
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "resource.h"
 #include "WinAPIUtils.h"
 #include "PathUtils.h"

@@ -20,7 +20,7 @@
  */
 
 #include "stdafx.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "MediaTypesDlg.h"
 #include "DSUtil.h"
 #include "moreuuids.h"

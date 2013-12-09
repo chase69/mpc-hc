@@ -20,7 +20,7 @@
  */
 
 #include "stdafx.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 #include "PPageFileInfoClip.h"
 #include <atlbase.h>
 #include <qnetwork.h>

@@ -22,7 +22,7 @@
 #include "stdafx.h"
 #include <atlpath.h>
 #include "ISDb.h"
-#include "mplayerc.h"
+#include "mpc-hc.h"
 
 #define PROBE_SIZE (64 * 1024)
 
