@@ -483,10 +483,13 @@ HRESULT CFGFilterVideoRenderer::Create(IBaseFilter** ppBF, CInterfaceList<IUnkno
                 CComQIPtr<IEVRFilterConfig> pConfig = pBF;
                 pConfig->SetNumberOfStreams(3);
             }
-
             BeginEnumPins(pBF, pEP, pPin) {
                 if (CComQIPtr<IMixerPinConfig, &IID_IMixerPinConfig> pMPC = pPin) {
                     pUnks.AddTail(pMPC);
+                    break;
+                }
+                if (CComQIPtr<IOverlay, &IID_IOverlay> pOverlay = pPin) {
+                    pUnks.AddTail(pOverlay);
                     break;
                 }
             }
