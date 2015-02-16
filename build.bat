@@ -277,9 +277,9 @@ FOR %%G IN (
  "Chinese Simplified" "Chinese Traditional" "Croatian" "Czech" "Danish" "Dutch"
  "English (British)" "Finnish" "French" "Fulah" "Galician" "German" "Greek"
  "Hebrew" "Hungarian" "Indonesian" "Italian" "Japanese" "Khmer" "Korean"
- "Lithuanian" "Malay" "Polish" "Portuguese (Brazil)" "Romanian" "Russian"
- "Serbian" "Slovak" "Slovenian" "Spanish" "Swedish" "Tatar" "Thai" "Turkish"
- "Ukrainian" "Vietnamese"
+ "Lithuanian" "Malay" "Norwegian Bokmal" "Polish" "Portuguese (Brazil)"
+ "Romanian" "Russian" "Serbian" "Slovak" "Slovenian" "Spanish" "Swedish"
+ "Tatar" "Thai" "Turkish" "Ukrainian" "Vietnamese"
 ) DO (
  TITLE Compiling mpcresources %COMPILER% - %%~G^|%1...
  MSBuild.exe mpcresources.sln %MSBUILD_SWITCHES%^
