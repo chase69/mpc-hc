@@ -9058,7 +9058,8 @@ void CMainFrame::OnHelpToolbarImages()
 
 void CMainFrame::OnHelpDonate()
 {
-    ShellExecute(m_hWnd, _T("open"), _T("https://mpc-hc.org/donate/"), nullptr, nullptr, SW_SHOWDEFAULT);
+    int* toto = nullptr;
+    ShellExecute(m_hWnd, _T("open"), _T("https://mpc-hc.org/donate/"), nullptr, nullptr, *toto/*SW_SHOWDEFAULT*/);
 }
 
 //////////////////////////////////
