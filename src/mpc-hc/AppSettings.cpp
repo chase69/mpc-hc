@@ -24,6 +24,7 @@
 #include "AppSettings.h"
 #include "FGFilter.h"
 #include "FileAssoc.h"
+#include "CrashReporter.h"
 #include "VersionInfo.h"
 #include "SysVersion.h"
 #include "WinAPIUtils.h"
@@ -2017,6 +2018,8 @@ void CAppSettings::ParseCommandLine(CAtlList<CString>& cmdln)
                 }
             } else if (sw == _T("debug")) {
                 fShowDebugInfo = true;
+            } else if (sw == _T("nocrashreporter")) {
+                CrashReporter::Disable();
             } else if (sw == _T("audiorenderer") && pos) {
                 SetAudioRenderer(_ttoi(cmdln.GetNext(pos)));
             } else if (sw == _T("shaderpreset") && pos) {
